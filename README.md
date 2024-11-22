@@ -14,9 +14,8 @@ This repository contains the implementation of a RAG-based (Retrieval-Augmented 
 - **Colpali**: For generating embeddings and indexing images of document pages.
 - **OpenAI GPT-4**: Provides intelligent, natural language responses to user queries.
 
-## Usage
-## Embedding Documents:
 
+## Embedding Documents:
 Use Byaldi to convert documents into images and store them.
 
 ## Running Queries
